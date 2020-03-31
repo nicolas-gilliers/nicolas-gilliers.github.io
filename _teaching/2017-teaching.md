@@ -4,7 +4,6 @@ collection: teaching
 type: ""
 permalink: /teaching/2017-teaching
 venue: "Paris 6"
-date: 2017-2018
 location: "Paris"
 --
 
