@@ -18,13 +18,13 @@ Since October 2019, I am a postodoctoral student at NTNU, Trondheim, Norway unde
 ### Contact
 ------
 - Email: nicolas.gilliers[@]gmail.com,
-- Adress: Sentralbygg 2, 1206, Gløshaugen, Alfred Getz vei 1, NTNU, Trondheim.
+- Address: Sentralbygg 2, 1206, Gløshaugen, Alfred Getz vei 1, NTNU, Trondheim.
 
 ### Research thematics: 
 -----
 - Yang-Mills theory in two dimensions,
 - Non-commutative probability, amalgamated probability, free probability,
-- random matrices,
-- quantum groups,
-- non-commutative stochastic analysis.
+- Random matrices,
+- Quantum groups,
+- Non-commutative stochastic analysis.
 
