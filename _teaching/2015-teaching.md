@@ -1,7 +1,7 @@
 ---
 title: "2015-2016"
 collection: teaching
-type: "Workshop"
+type: "Licence"
 permalink: /teaching/2015-teaching
 venue: "Paris 6"
 date: 2015-01-01
