@@ -180,13 +180,16 @@ collections:
     permalink: /:collection/:path/
   research:
     output: true
+    permalink: /:collection/:path/
+  more:
+    output: true
     permalink: /:collection/:path
 # Defaults
 defaults:
-  # _posts
+  # _more
   - scope:
       path: ""
-      type: posts
+      type: more
     values:
       layout: single
       author_profile: true
