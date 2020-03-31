@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Nicolas Gilliers"
 title_separator          : "-"
 name                     : &name "Nicolas Gilliers"
@@ -85,10 +85,10 @@ author:
   bio              : "Post Doctoral Student in Mathematics"
   location         : "Trondheim, Norway"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : #""
+  googlescholar    : #""
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -183,7 +183,7 @@ collections:
     permalink: /:collection/:path/
   more:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _more
