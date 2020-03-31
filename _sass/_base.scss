@@ -117,10 +117,13 @@ a {
     text-decoration:none; 	
   }
 
-  &:hover,
+  &:hover {
+    text-decoration: none;
+  }
   &:active {
     outline: 0;
   }
+  
   text-decoration: none;
 }
 
