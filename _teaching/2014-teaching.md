@@ -4,6 +4,7 @@ collection: teaching
 type: "Licence"
 permalink: /teaching/2014-teaching
 venue: "Paris 6 (Jussieu), Paris"
+date: 2014-01-01
 location: "Paris"
 ---
 
