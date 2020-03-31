@@ -8,3 +8,4 @@ date: 2019-01-01
 paperurl: "https://hal.archives-ouvertes.fr/hal-02113282"
 ---
 
+$$ \frac{3}{2} $$
