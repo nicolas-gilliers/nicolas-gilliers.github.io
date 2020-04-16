@@ -28,3 +28,4 @@ Since October 2019, I am a postodoctoral student at NTNU, Trondheim, Norway unde
 - Quantum groups,
 - Non-commutative stochastic analysis.
 
+![image](/files/felix-the-cat-5.png)
