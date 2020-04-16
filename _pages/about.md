@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<p align="center">
+  <img width="30%" src="https://nicolas-gilliers.github.io/files/felix-the-cat-5.png">
+</p>
+
 Ancien doctorant à Sorbonne Université sous la direction de Thierry Lévy, au Laboratoire de Probabilités, Statistiques et Modélisation (LPSM, ex-LPMA)
 
 Depuis Octobre 2019, je suis post-doctorant au NTNU à Trondheim (Norvège) sous la direction de Kurusch Ebrahimi-Fard et financé par une bourse ERCIM.
@@ -28,6 +32,3 @@ Since October 2019, I am a postodoctoral student at NTNU, Trondheim, Norway unde
 - Quantum groups,
 - Non-commutative stochastic analysis.
 
-<p align="center">
-  <img width="30%" src="https://nicolas-gilliers.github.io/files/felix-the-cat-5.png">
-</p>
