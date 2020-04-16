@@ -28,4 +28,6 @@ Since October 2019, I am a postodoctoral student at NTNU, Trondheim, Norway unde
 - Quantum groups,
 - Non-commutative stochastic analysis.
 
-![image](/files/felix-the-cat-5.png)
+<p align="center">
+  <img width="50%" src="https://nicolas-gilliers.github.io/files/felix-the-cat-5.png">
+</p>
