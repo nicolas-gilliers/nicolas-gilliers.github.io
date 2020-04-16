@@ -29,5 +29,5 @@ Since October 2019, I am a postodoctoral student at NTNU, Trondheim, Norway unde
 - Non-commutative stochastic analysis.
 
 <p align="center">
-  <img width="50%" src="https://nicolas-gilliers.github.io/files/felix-the-cat-5.png">
+  <img width="30%" src="https://nicolas-gilliers.github.io/files/felix-the-cat-5.png">
 </p>
