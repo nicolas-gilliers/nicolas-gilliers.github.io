@@ -14,7 +14,7 @@ Depuis Octobre 2019, je suis post-doctorant au NTNU à Trondheim (Norvège) sous
 Since October 2019, I am a postodoctoral student at NTNU, Trondheim, Norway under the supervision of Kurusch Ebrahimi-Fard.
 
 <p align="center">
-  <img width="30%" src="https://nicolas-gilliers.github.io/files/felix-the-cat-5.png">
+  <img width="20%" src="https://nicolas-gilliers.github.io/files/felix-the-cat-5.png">
 </p>
 
 
