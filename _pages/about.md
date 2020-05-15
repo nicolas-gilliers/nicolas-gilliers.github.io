@@ -19,7 +19,7 @@ Since October 2019, I am a postodoctoral student at NTNU, Trondheim, Norway unde
 
 ### Projects
 ------
-<i class="fas fa-cogs"></i> Application of higher category theory to operator-valued non-commutative probability,
+<i class="fas fa-cogs"></i> Application of higher category theory to operator-valued non-commutative probability,  
 <i class="fas fa-cogs"></i> Rough analysis in probability spaces.
 ### Contact
 ------
