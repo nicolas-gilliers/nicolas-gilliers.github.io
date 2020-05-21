@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Curriculum"
+permalink: /cv/
+author_profile: true
+---
+
 ## Education
 
 - 2010–2011 Last year as an undergraduate student , L.
