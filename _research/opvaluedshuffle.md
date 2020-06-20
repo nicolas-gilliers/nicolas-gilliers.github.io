@@ -12,6 +12,6 @@ splitting map, between the two unshuffle Hopf algebra. We obtain two half-shuffl
 corresponding to, respectively, free and boolean moment-cumulants relations." 
 venue: "NTNU, Trondheim, Norway"
 date: 2020-05-20
-paperurl: "https://nicolas-gilliers.github.io/files/operatorvaluedcumulantmomentRev9.pdf"
+paperurl: "https://nicolas-gilliers.github.io/files/operatorvaluedcumulantmomentRev10.pdf"
 ---
 
