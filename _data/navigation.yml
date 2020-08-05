@@ -6,8 +6,11 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "More"
-    url: /more/
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Events"
+    url: /events/
 
   - title: "Curriculum"
     url: /cv/

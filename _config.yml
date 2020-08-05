@@ -189,10 +189,10 @@ collections:
     permalink: /:collection/:path/
 # Defaults
 defaults:
-  # _more
+  # _talks
   - scope:
       path: ""
-      type: more
+      type: talks
     values:
       layout: single
       author_profile: true
