@@ -1,5 +1,5 @@
 ---
-title: 'Talk on the Duoidal approach to operator-valued non-commutative probability'
+title: 'Berkeley's seminar on free probability'
 date: 2019-07-10
 permalink: /more/besse
 tags:
