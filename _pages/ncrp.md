@@ -7,7 +7,7 @@ author_profile: true
 
 ### Seances
 
-*   **16 - 02 - 2018** : First Commit. Carlo Bellingeri: le problème des chemins rugueux, le Sewing Lemma, les chemins rugueux et l’intégrale rugueuse, relation avec le calcul stochastique classique. Et on discutera de proba non commutative, de calcul stochastique libre…​
+*   **16 - 02 - 2018** : Carlo Bellingeri: le problème des chemins rugueux, le Sewing Lemma, les chemins rugueux et l’intégrale rugueuse, relation avec le calcul stochastique classique. Et on discutera de proba non commutative, de calcul stochastique libre…​
 
 *   **23 - 02 - 2018** : Thierry Lévy: Probabilités non commutatives
 
