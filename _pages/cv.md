@@ -38,28 +38,6 @@ theory. Students interested in rough paths theory and non commutative probabilit
 basis to read in common a recent article published by Schott and Deya to introduce us to non
 commutative probability in relation with rough path theory.
 
-## Schools, Workshops and Talks
-
-- 2015 Bordeaux ,ANR ProbaGéo.
-- 2015 Lausanne ,Semester Geometric Mechanics, Variational and Stochastic, I attended to
-lectures on Yang Mills Theory during this thematics semester organized by the EPFL
-Methods.
-- 2016 Les Diablerets - Switzerland ,Integrable random systems, representation theory
-and geometry of Lie groups, organized by the university of Zurich.
-- 2016 Stochastic Geometry in Nantes ,A workshop organized by the Lebesgues Center
-for Mathematics (Rennes).
-- 2016 Geneve and Zurich ,Two weeks international conference on Poisson Geometry.
-- 2017 Probability school of Haifa (Israel) ,I attended Talks on discrete gaussian free
-field, continuous gaussian free field and Liouville quantum gravity.
-- 2018 Worskhop in Trondheim, Norway) , I attended a Worskhop on Rough Path
-Theory, Lie Butcher theory.
-- 2019 Workshop in Nancy ,As a member of the GDR TRAG (Groupe de Recherche sur
-les Trajectoires Rugueuses).
-- 2020 Workshop in Bergen, Norway ,Young researchers between geometry and stochastic
-analysis.
-- 2020 Online Besse Seminar ,I gave a talk in the duoidal approach to operator-valued
-probability, see https://www.math.ntnu.no/acpms/.
-
 ## Scientific Skills
 
 Programming language:
