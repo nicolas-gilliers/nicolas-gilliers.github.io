@@ -22,27 +22,17 @@ geometric quantization and Lie groups.
 As a PhD student, I am working with Thierry Lévy (LPMA). My first three years were funded
 by a PhD scholarship granted by the Ministry of Education.
 
-- 2019 – Postdoctoral fellow.
+- 2019 – October 2020 Postdoctoral fellow.
 Postdoctoral fellows at NTNU, Trondheim, Norway funded by an ERCIM fellowship under
 the supervision of Kurusch Ebrahimi-Fard.
 
-## Research Activities
-
-- 2015 – 2016 Organizer of the Ph.D seminar of LPMA laboratory.
-PhD students of the laboratory are meeting on a weekly basis from September to June at the
-LPMA Laboratory. Talks are about proability and their interactions with other fields such as
-geometry, biology, finance...
-
-- 2017 - 2018 Organizer of a Workshop on non commutative probability and rough paths
-theory. Students interested in rough paths theory and non commutative probability meet on a weekly
-basis to read in common a recent article published by Schott and Deya to introduce us to non
-commutative probability in relation with rough path theory.
+- October 2020 - December 2020 Forsker at NTNU, Trondheim
 
 ## Scientific Skills
 
 Programming language:
 
-- C++ and Python, I am teaching the C++ programming language at a graduate level. I am able to design complex code with multithreading capabilities.
+- C++ and Python, I taught the C++ programming language at a graduate level.
 
 ## Language abilities
 
@@ -50,7 +40,7 @@ Programming language:
 - English, Fluent.
 - Norwegian Bokmål, Level A2-B1.
 
-## Overview of my work during my PhD
+## Overview of my thesis work
 
 Non-commutative probability theory can be described as an algebraic point of view on the classical
 theory of probability.
