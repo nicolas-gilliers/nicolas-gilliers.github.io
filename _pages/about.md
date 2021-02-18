@@ -9,9 +9,9 @@ redirect_from:
 ---
 Ancien doctorant à Sorbonne Université sous la direction de Thierry Lévy, au Laboratoire de Probabilités, Statistiques et Modélisation (LPSM, ex-LPMA)
 
-Depuis Octobre 2019, je suis post-doctorant au NTNU à Trondheim (Norvège) sous la direction de Kurusch Ebrahimi-Fard et financé par une bourse ERCIM.
+Depuis Janvier 2021, je suis post-doctorant à l'université de Greifswald, financé par une bourse DAAD.
 
-Since October 2019, I am a post-doctoral student at NTNU, Trondheim, Norway under the supervision of Prof. Kurusch Ebrahimi-Fard.
+Since January 2019, I am a post-doctoral researcher at the university of Greifswald.
 
 <p align="center">
   <img width="20%" src="https://nicolas-gilliers.github.io/files/felix-the-cat-5.png">
