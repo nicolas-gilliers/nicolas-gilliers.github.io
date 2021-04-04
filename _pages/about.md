@@ -39,12 +39,12 @@ Since January 2021, I am a post-doctoral researcher at the university of Greifsw
 ### Conferences
 -----
 
-#### 2021
+### 2021
 
 * **20.09.2021-25.09.2021**: Noncommutative algebra, probability, and analysis in action
 * **25.02.2021-26.02.2021**: Cumulants in Stochastic Analysis @ Online [website](http://page.math.tu-berlin.de/~tapia/cumulants/)
 
-#### 2020
+### 2020
 
 * **29.10.2020-30.10.2020**: Analysis and Geometry in Norway @ Bergen
 * **4.10.2020-16.10.2020**: Higher structure emerging from renormalization @ Erwin Schrödinger institute, Vienna, [website](https://www.esi.ac.at/events/e375/)
