@@ -25,7 +25,7 @@ Since January 2021, I am a post-doctoral researcher at the university of Greifsw
 ### Contact
 ------
 - Email: nicolas.gilliers[@]gmail.com,
-- Address: Sentralbygg 2, 1206, Gløshaugen, Alfred Getz vei 1, NTNU, Trondheim.
+- Address: Walther-Rathenau-Straße 47, 17489 Greifswald
 
 ### Research thematics:
 -----
@@ -39,12 +39,10 @@ Since January 2021, I am a post-doctoral researcher at the university of Greifsw
 ### Conferences
 -----
 
-#### I will be there:
+#### 2021
 
 * **20.09.2021-25.09.2021**: Noncommutative algebra, probability, and analysis in action
 * **25.02.2021-26.02.2021**: Cumulants in Stochastic Analysis @ Online [website](http://page.math.tu-berlin.de/~tapia/cumulants/)
-
-#### I've been there:
 
 #### 2020
 
