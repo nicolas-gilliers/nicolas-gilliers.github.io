@@ -9,9 +9,9 @@ redirect_from:
 ---
 Ancien doctorant à Sorbonne Université sous la direction de Thierry Lévy, au Laboratoire de Probabilités, Statistiques et Modélisation (LPSM, ex-LPMA)
 
-Depuis Janvier 2021, je suis post-doctorant à l'université de Greifswald, financé par une bourse DAAD.
+Depuis September 2022, je suis post-doctorant à l'université de Toulouse, financé par l'ANR Stars (G. Cébron).
 
-Since January 2021, I am a post-doctoral researcher at the university of Greifswald.
+Since September 2022, I am a post-doctoral researcher at the university of Toulouse.
 
 <p align="center">
   <img width="20%" src="https://nicolas-gilliers.github.io/files/felix-the-cat-5.png">
