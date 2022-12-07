@@ -148,12 +148,12 @@
 }
 
 h1:not(.title), h2 {
-  font-style: italic;
+  font-style: bold;
 }
 
 nav#TOC label
 a, a:link, a:visited {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 @media screen and (min-width: calc(745px + 2 * (52px + 206px + 52px) - 1px)) {
@@ -162,22 +162,22 @@ a, a:link, a:visited {
   }
   nav#TOC a:hover,
   nav#TOC a:hover code {
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 
 table {
-  border-width: 2px;
+  border-width: 1px;
 }
 
 table, table td, table th {
-  border-left: none;
-  border-right: none;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
 }
 
 table td {
-  border-top: none;
-  border-bottom: none;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 table td, table th {
