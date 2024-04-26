@@ -5,7 +5,6 @@
   /* --- Colors --- */
 
   --background-color: #fff;
-  --background-image: url(‘https://nicolas-gilliers.github.io/img/IMG_4329.jpg’);
   --color-text: #1b2733;
   --color-text-secondary: #637282;
   --color-link: #0070e0;
@@ -149,6 +148,7 @@ html {
 }
 
 body {
+  background-image: url(‘https://nicolas-gilliers.github.io/img/IMG_4329.jpg’);
   font-family: var(--font-family-prose);
   color: var(--color-text);
   font-size: var(--font-size);
