@@ -22,7 +22,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install arxiv
+        run: pip install arxiv markdown2
 
       - name: Generate publications file
         run: python publications.py
