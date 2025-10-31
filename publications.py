@@ -1,5 +1,6 @@
 import arxiv
 import re
+import markdown2
 
 # Paramètres
 author = "Nicolas Gilliers"
@@ -35,7 +36,7 @@ for result in search.results():
 with open("publications_gilliers.md", "w", encoding="utf‑8") as f:
     f.write("\n".join(markdown_lines))
 
-html_content = markdown.markdown(md_content, extensions=['fenced_code', 'tables'])
+html_content = markdown2.markdown(md_content, extensions=['fenced_code', 'tables'])
 
 html_page = f"""
 <!DOCTYPE html>
