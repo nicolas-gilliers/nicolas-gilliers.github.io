@@ -1,0 +1,36 @@
+name: Update Nicolas Gilliers arXiv Publications
+
+on:
+  push:
+    branches:
+      - main  # 
+  schedule:
+    - cron: '0 8 * * *'  # Chaque jour à 08:00 UTC
+  workflow_dispatch:  
+
+jobs:
+  update-markdown:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install arxiv
+
+      - name: Generate publications file
+        run: python generate_gilliers_arxiv.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add publications_gilliers.md
+          git commit -m "Update Nicolas Gilliers publications from arXiv" || echo "No changes to commit"
+          git push
