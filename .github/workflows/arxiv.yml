@@ -25,7 +25,7 @@ jobs:
         run: pip install arxiv
 
       - name: Generate publications file
-        run: python generate_gilliers_arxiv.py
+        run: python publications.py
 
       - name: Commit and push if changed
         run: |
