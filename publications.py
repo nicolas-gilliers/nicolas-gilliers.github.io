@@ -3,7 +3,7 @@ import re
 import markdown2
 
 # Paramètres
-author = "Nicolas Gilliers"
+author = "Gilliers"
 max_results = 50  
 
 # Requête arXiv : 
@@ -35,29 +35,5 @@ for result in search.results():
 # Écriture du fichier
 with open("publications_gilliers.md", "w", encoding="utf‑8") as f:
     f.write("\n".join(markdown_lines))
-
-html_content = markdown2.markdown("\n".join(markdown_lines), extras=['fenced_code', 'tables'])
-
-html_page = f"""
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<meta charset="UTF-8">
-<title>Publications Nicolas Gilliers</title>
-<style>
-body {{ font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 2em; }}
-h1, h2 {{ color: #2c3e50; }}
-hr {{ margin: 2em 0; }}
-</style>
-</head>
-<body>
-{html_content}
-</body>
-</html>
-"""
-
-# Écriture du fichier HTML
-with open("publications_gilliers.html", "w", encoding="utf-8") as f:
-    f.write(html_page)
-
+    
 print("Fichiers publications_gilliers.md et publications_gilliers.html créés avec succès.")
