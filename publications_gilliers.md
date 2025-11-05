@@ -1,3 +1,16 @@
+## Finite free probability and $S$ transforms of Jacobi processes
+
+- **Auteurs** : Nizar Demni, Nicolas Gilliers, Tarek Hamdi
+
+- **Date de soumission** : 2025‑11‑04
+
+- **URL** : [http://arxiv.org/abs/2511.02758v1](http://arxiv.org/abs/2511.02758v1)
+
+- **Résumé** : In this paper, we study the $S$ transforms of Jacobi processes in the frameworks of free and finite free probability theories. We begin by deriving a partial differential equation satisfied by the free $S$ transform of the free Jacobi process, and we provide a detailed analysis of its characteristic curves. We turn next our attention to the averaged characteristic polynomial of the Hermitian Jacobi process and to the dynamic of its roots, referred to as the frozen Jacobi process. In particular, we prove, for a specific set of parameters, that the former aligns up to a Szeg\"o variable transformation with the Hermite unitary polynomial. We also provide an expansion of the averaged characteristic polynomial of the Hermitian process in the basis of Jacobi polynomials. Finally, we establish the convergence of the frozen Jacobi process to the free Jacobi process in high dimensions by using the finite free S transform. In doing so, we prove a general result, interesting in its own, on the convergence of the finite differences of the finite free $S$ transform.
+
+
+---
+
 ## Rates of convergence in the Free Multiplicative Central Limit Theorem
 
 - **Auteurs** : Marwa Banna, Nicolas Gilliers, Pei-Lun Tseng
