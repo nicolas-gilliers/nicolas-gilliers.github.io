@@ -102,19 +102,6 @@
 
 ---
 
-## Combinatorics of cyclic-conditional freeness
-
-- **Auteurs** : Octavio Arizmendi, Guillaume Cébron, Nicolas Gilliers
-
-- **Date de soumission** : 2023‑11‑22
-
-- **URL** : [http://arxiv.org/abs/2311.13178v2](http://arxiv.org/abs/2311.13178v2)
-
-- **Résumé** : We develop the relevant combinatorics pertaining to cyclic-conditional freeness in order to introduce the adequate sets of cumulants linearizing the cyclic-conditional additive convolution. On our way, we introduce a new non-commutative independence, cyclic freeness. We explain how cyclic-conditional freeness is "reduced" to cyclic freeness by utilizing a multivariate extension of the inverse Markov-Krein transform. We also consider cyclic-conditional multiplicative convolution and prove limit theorems.
-
-
----
-
 ## Jacobson identities for post-Lie algebras in positive characteristic
 
 - **Auteurs** : Quentin Ehret, Nicolas Gilliers
@@ -124,6 +111,19 @@
 - **URL** : [http://arxiv.org/abs/2504.14540v1](http://arxiv.org/abs/2504.14540v1)
 
 - **Résumé** : Let $p$ be a prime number. Given a restricted Lie algebra over a field of characteristic $p$ and a post-Lie operation over it, we prove the Jacobson identities for a $p$-structure built from the Lie bracket and the post-Lie operation, called sub-adjacent $p$-structure. Furthermore, we give sufficient conditions for the sub-adjacent Lie algebra to be restricted if equipped with this sub-adjacent $p$-structure. This construction is ''axiomatized'' by introducing the notion of restricted post-Lie algebras, and we work out several examples.
+
+
+---
+
+## Combinatorics of cyclic-conditional freeness
+
+- **Auteurs** : Octavio Arizmendi, Guillaume Cébron, Nicolas Gilliers
+
+- **Date de soumission** : 2023‑11‑22
+
+- **URL** : [http://arxiv.org/abs/2311.13178v2](http://arxiv.org/abs/2311.13178v2)
+
+- **Résumé** : We develop the relevant combinatorics pertaining to cyclic-conditional freeness in order to introduce the adequate sets of cumulants linearizing the cyclic-conditional additive convolution. On our way, we introduce a new non-commutative independence, cyclic freeness. We explain how cyclic-conditional freeness is "reduced" to cyclic freeness by utilizing a multivariate extension of the inverse Markov-Krein transform. We also consider cyclic-conditional multiplicative convolution and prove limit theorems.
 
 
 ---
