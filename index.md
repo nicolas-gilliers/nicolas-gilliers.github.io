@@ -1,7 +1,7 @@
 
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown.min.css">
 
-<img align="right" src="../felix.svg" style=" width:200px; height:200px;"/>
+<img align="right" src="../nicolas-gilliers.github.io/felix.svg" style=" width:200px; height:200px;"/>
 
 # Nicolas Gilliers
 
@@ -9,16 +9,22 @@
 
 **Maître de conférences**  
 MAP5  
-Université Paris-Cité  
+45 rue des Saint-Pères, 75006, Paris
+Université Paris-Cité
 prénom.nom@u-paris.fr
 
 ---
 
 ## À propos
 
-Je suis maître de conférence au MAP5 dans l'équipe de probabilité. Je m'intéresse aux matrices aléatoires, aux indépendances non-commutatives et à l'algèbre. 
+Je suis maître de conférence au MAP5 dans l'équipe de probabilité. Je m'intéresse aux matrices aléatoires, aux indépendances non-commutatives et à l'algèbre.
+Avant, j'ai travaillé dans plusieurs laboratoires, à Trondheim (NO), à Greifswald (DE), à Toulouse et à la New-York University sur le campus d'Abu Dhabi. 
 
 ## Wiki
+
 A cette adresse: https://nci-wiki.apps.math.cnrs.fr/, le wiki des indépendances non-commutatives en construction. 
 
 
+## Actualités
+
+######  Stages au laboratoire pour les élèves de seconde : nous organisons à destination des lycéens un stage d'observation au MAP5 avec ma collègue Angèle Niclas
