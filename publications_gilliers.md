@@ -1,3 +1,16 @@
+## Finite free probability and $S$ transforms of Jacobi processes
+
+- **Auteurs** : Nizar Demni, Nicolas Gilliers, Tarek Hamdi
+
+- **Date de soumission** : 2025‑11‑04
+
+- **URL** : [http://arxiv.org/abs/2511.02758v1](http://arxiv.org/abs/2511.02758v1)
+
+- **Résumé** : In this paper, we study the $S$ transforms of Jacobi processes in the frameworks of free and finite free probability theories. We begin by deriving a partial differential equation satisfied by the free $S$ transform of the free Jacobi process, and we provide a detailed analysis of its characteristic curves. We turn next our attention to the averaged characteristic polynomial of the Hermitian Jacobi process and to the dynamic of its roots, referred to as the frozen Jacobi process. In particular, we prove, for a specific set of parameters, that the former aligns up to a Szegö variable transformation with the Hermite unitary polynomial. We also provide an expansion of the averaged characteristic polynomial of the Hermitian process in the basis of Jacobi polynomials. Finally, we establish the convergence of the frozen Jacobi process to the free Jacobi process in high dimensions by using the finite free S transform. In doing so, we prove a general result, interesting in its own, on the convergence of the finite differences of the finite free $S$ transform.
+
+
+---
+
 ## Rates of convergence in the Free Multiplicative Central Limit Theorem
 
 - **Auteurs** : Marwa Banna, Nicolas Gilliers, Pei-Lun Tseng
@@ -6,7 +19,7 @@
 
 - **URL** : [http://arxiv.org/abs/2505.18348v2](http://arxiv.org/abs/2505.18348v2)
 
-- **Résumé** : We provide the first quantitative estimates for the rate of convergence in the free multiplicative central limit theorem (CLT), in terms of the Kolmogorov and $r$-Wasserstein distances for $r \geq 1$. While the free additive CLT has been thoroughly studied, including convergence rates, the multiplicative setting remained open in this regard. We consider products of the form $$ \pi_n^{g,n^{-1/2}x} := g\left(\frac{x_1}{\sqrt{n}}\right) \cdots g\left(\frac{x_n}{\sqrt{n}}\right),$$ where $x_1, \dots, x_n$ are freely independent self-adjoint operators with common variance $\sigma^2$ and $g \colon \mathbb{R} \to \mathbb{C}$ satisfies certain regularity and integrability conditions. We quantify the deviation of the singular value distribution of $\pi_n^{g,x}$ from the free positive semicircular law, with bounds depending only on the moments of the underlying variables. Additionally, we present a combinatorial proof of the free multiplicative CLT that extends to the unbounded setting.
+- **Résumé** : We provide the first quantitative estimates for the rate of convergence in the free multiplicative central limit theorem (CLT), in terms of the Kolmogorov and $r$-Wasserstein distances for $r \geq 1$. While the free additive CLT has been thoroughly studied, including convergence rates, the multiplicative setting remained open in this regard. We consider products of the form $$ π_n^{g,n^{-1/2}x} := g\left(\frac{x_1}{\sqrt{n}}\right) \cdots g\left(\frac{x_n}{\sqrt{n}}\right),$$ where $x_1, \dots, x_n$ are freely independent self-adjoint operators with common variance $σ^2$ and $g \colon \mathbb{R} \to \mathbb{C}$ satisfies certain regularity and integrability conditions. We quantify the deviation of the singular value distribution of $π_n^{g,x}$ from the free positive semicircular law, with bounds depending only on the moments of the underlying variables. Additionally, we present a combinatorial proof of the free multiplicative CLT that extends to the unbounded setting.
 
 
 ---
@@ -136,7 +149,7 @@
 
 - **URL** : [http://arxiv.org/abs/2005.12029v4](http://arxiv.org/abs/2005.12029v4)
 
-- **Résumé** : We investigate lattice and continuous quantum gauge theories on the Euclidean plane with a structure group that is replaced by a $H$-algebra; non-commutative analogues of groups and contain the class of Voiculescu's dual groups. We are interested in non-commutative analogues of random gauge fields, which we describe through the random Holonomy that they induce. We propose a general definition of a Quantum Holonomy Hield over a $H$-algebra and construct such fields starting from a quantum L\'evy process on a $H$-algebra. As an application, we define higher-dimensional generalizations of the so-called master field.
+- **Résumé** : We investigate lattice and continuous quantum gauge theories on the Euclidean plane with a structure group that is replaced by a $H$-algebra; non-commutative analogues of groups and contain the class of Voiculescu's dual groups. We are interested in non-commutative analogues of random gauge fields, which we describe through the random Holonomy that they induce. We propose a general definition of a Quantum Holonomy Hield over a $H$-algebra and construct such fields starting from a quantum Lévy process on a $H$-algebra. As an application, we define higher-dimensional generalizations of the so-called master field.
 
 
 ---

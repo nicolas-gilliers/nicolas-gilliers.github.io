@@ -1,7 +1,14 @@
 
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown.min.css">
 
-<img align="right" src="../nicolas-gilliers.github.io/felix.svg" style=" width:200px; height:200px;"/>
+
+<img align="right" src="../felix.svg" style=" width:200px; height:200px;"/>
+<nav style="padding:10px 0; border-bottom:1px solid #ddd;">
+  <a href="#curriculum" style="margin-right:20px;">Curriculum</a>
+  <a href="#publications" style="margin-right:20px;">Publications</a>
+  <a href="#enseignement">Enseignement</a>
+</nav>
+
 
 # Nicolas Gilliers
 
