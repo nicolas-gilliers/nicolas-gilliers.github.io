@@ -30,7 +30,7 @@
 
 - **Date de soumission** : 2025‑04‑20
 
-- **URL** : [http://arxiv.org/abs/2504.14540v1](http://arxiv.org/abs/2504.14540v1)
+- **URL** : [http://arxiv.org/abs/2504.14540v2](http://arxiv.org/abs/2504.14540v2)
 
 - **Résumé** : Let $p$ be a prime number. Given a restricted Lie algebra over a field of characteristic $p$ and a post-Lie operation over it, we prove the Jacobson identities for a $p$-structure built from the Lie bracket and the post-Lie operation, called sub-adjacent $p$-structure. Furthermore, we give sufficient conditions for the sub-adjacent Lie algebra to be restricted if equipped with this sub-adjacent $p$-structure. This construction is ''axiomatized'' by introducing the notion of restricted post-Lie algebras, and we work out several examples.
 
