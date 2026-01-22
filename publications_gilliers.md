@@ -1,3 +1,16 @@
+## Bigraph independence : a mixture of the five natural independences
+
+- **Auteurs** : Nicolas Gilliers, David Jekel
+
+- **Date de soumission** : 2026‑01‑21
+
+- **URL** : [http://arxiv.org/abs/2601.15215v1](http://arxiv.org/abs/2601.15215v1)
+
+- **Résumé** : We introduce a notion of non-commutative joint independence for multiple algebras in a non-commutative probability space. The pairwise relationships between these algebras are encoded by a graph with two edge sets -- a combinatorial structure we call a bigraph -- and naturally encompass the five fundamental types of independence: tensor, free, (anti)monotone, and Boolean. It subsumes the BMT independence of Arizmendi--Mendoza--Vazquez-Becerra (when all pairwise relationships are Boolean, (anti)monotone, or tensor) and the $ε$ or $Λ$-independence of Mlotkowski (when the pairwise relationships are tensor and free). We present explicit combinatorial moment formulas, a Hilbert space construction, and natural associativity relations within this setting. Furthermore, we demonstrate that bigraph independence emerges in the asymptotic behavior of tensor product random matrix models with respect to a vector state, encompassing the Charlesworth--Collins model for $\varepsilon$-independence as a special case and offering a random matrix perspective on BMT independence.
+
+
+---
+
 ## Finite free probability and $S$ transforms of Jacobi processes
 
 - **Auteurs** : Nizar Demni, Nicolas Gilliers, Tarek Hamdi
