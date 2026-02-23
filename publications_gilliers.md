@@ -69,9 +69,9 @@
 
 - **Date de soumission** : 2023‑11‑22
 
-- **URL** : [http://arxiv.org/abs/2311.13178v2](http://arxiv.org/abs/2311.13178v2)
+- **URL** : [http://arxiv.org/abs/2311.13178v3](http://arxiv.org/abs/2311.13178v3)
 
-- **Résumé** : We develop the relevant combinatorics pertaining to cyclic-conditional freeness in order to introduce the adequate sets of cumulants linearizing the cyclic-conditional additive convolution. On our way, we introduce a new non-commutative independence, cyclic freeness. We explain how cyclic-conditional freeness is "reduced" to cyclic freeness by utilizing a multivariate extension of the inverse Markov-Krein transform. We also consider cyclic-conditional multiplicative convolution and prove limit theorems.
+- **Résumé** : This work investigates the combinatorial structures underlying cyclic conditional freeness and introduces cumulants that serve to linearize the cyclic conditional additive convolution. In the process, we establish the notion of "cyclic freeness", demonstrating its equivalence to infinitesimal freeness in the presence of tracial states. Furthermore, we show that cyclic conditional freeness can be reduced to cyclic freeness through a multivariate extension of the inverse Markov-Krein transform.
 
 
 ---
