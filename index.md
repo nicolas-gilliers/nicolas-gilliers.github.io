@@ -18,21 +18,24 @@
 **Maître de conférences**  
 MAP5  
 45 rue des Saint-Pères, 75006, Paris
-Université Paris-Cité
+Université Paris-Cité,
+
 prénom.nom@u-paris.fr
 
 ---
 
 ## À propos
 
-Je suis maître de conférence au MAP5 dans l'équipe de probabilité. Je m'intéresse aux matrices aléatoires, aux indépendances non-commutatives et à l'algèbre.
-Avant, j'ai travaillé dans plusieurs laboratoires, à Trondheim (NO), à Greifswald (DE), à Toulouse et à la New-York University sur le campus d'Abu Dhabi. 
+Je suis maître de conférence au [MAP5](https://map5.mi.parisdescartes.fr/) dans l'équipe de probabilité. Je m'intéresse aux matrices aléatoires, aux indépendances non-commutatives et à l'algèbre.
+J'ai travaillé dans plusieurs laboratoires, à Trondheim (NO), à Greifswald (DE), à Toulouse et à la New-York University. 
 
 ## Wiki
 
-A cette adresse: https://nci-wiki.apps.math.cnrs.fr/, le wiki des indépendances non-commutatives en construction. 
+A cette adresse https://nci-wiki.apps.math.cnrs.fr/, le wiki des indépendances non-commutatives en construction. 
 
 
-## Actualités
+## Annonces
 
-######  Stages au laboratoire pour les élèves de seconde : nous organisons à destination des lycéens un stage d'observation au MAP5 avec ma collègue Angèle Niclas
+- Nous organisons avec mon collègue Emre Anakok un stage d'observation au MAP5 à destination des collègiens et lycéens, pour candidater, c'est [ici](https://map5.mi.parisdescartes.fr/offres-demploi/offres-de-stages/) !
+
+- Je suis membre de l' Association for Human Mathematics, [AHM](https://www.ahmath.org/)
