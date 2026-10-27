@@ -1,5 +1,5 @@
 ---
-title: Nicolas Gilliers
+title: "Nicolas Gilliers"
 layout: default
 ---
 
