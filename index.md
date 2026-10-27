@@ -26,3 +26,7 @@ A cette adresse https://nci-wiki.apps.math.cnrs.fr/, le wiki des indépendances 
 Nous organisons avec mon collègue Emre Anakok un stage d'observation au MAP5 à destination des collègiens et lycéens, pour candidater, c'est [ici](https://map5.mi.parisdescartes.fr/offres-demploi/offres-de-stages/) !
 
 Je suis membre de l' Association for Human Mathematics, [AHM](https://www.ahmath.org/). <a href="lien_sympa.html"> Inscription à la liste de diffusion de la section parisienne de l'AHM </a>
+
+<div style="text-align: center;">
+  <img src="felix.svg" style="width:200px; height=200px;">
+</div>
