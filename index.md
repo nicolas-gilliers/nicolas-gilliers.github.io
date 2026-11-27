@@ -2,9 +2,6 @@
 title: "Nicolas Gilliers"
 layout: default
 ---
-
-# Nicolas Gilliers
-
 [<img src="arxiv-logomark-small.svg" style=" width:30px; height:30px;"/>](https://arxiv.org/search/?query=nicolas+gilliers&searchtype=all&source=header)
 
 **Maître de conférences**  
