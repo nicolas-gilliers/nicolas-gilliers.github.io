@@ -21,7 +21,7 @@ A cette adresse [wiki](https://nci-wiki.apps.math.cnrs.fr/), le wiki des indépe
 
 Nous organisons avec mon collègue Emre Anakok un stage d'observation au MAP5 à destination des collègiens et lycéens, pour candidater, c'est [ici](https://map5.mi.parisdescartes.fr/offres-demploi/offres-de-stages/) !
 
-Je suis membre de l'Association for Human Mathematics, [AHM](https://www.ahmath.org/). Je défends la pratique humaine des mathématiques contre leur instrumentalisation par le techno-fachisme.
+Je suis membre de l'Association for Human Mathematics, [AHM](https://www.ahmath.org/). Je défends la pratique humaine des mathématiques contre leur instrumentalisation par le techno-fascisme.
 
 <a href="lien_sympa.html"> Inscription à la liste de diffusion de la section parisienne de l'AHM </a>
 
